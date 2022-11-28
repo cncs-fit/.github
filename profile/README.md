@@ -11,6 +11,7 @@
 
 [研究室Wikiはこちら](https://github.com/cncs-fit/ylab_wiki/wiki)
 
+[リポジトリ一覧](https://github.com/orgs/cncs-fit/repositories)
 
 ## その他
 
