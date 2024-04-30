@@ -7,7 +7,7 @@
 
 ## リポジトリ
 
-[週報はこちら](https://github.com/cncs-fit/wr2023)
+[週報はこちら](https://github.com/cncs-fit/wr2024)
 
 [研究室Wikiはこちら](https://github.com/cncs-fit/ylab_wiki/wiki)
 
